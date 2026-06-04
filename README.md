@@ -59,6 +59,8 @@ Steps:
 3. Run the simulation.  
 4. Adjust attenuator until **Q factor = 6.00 ± 0.05**.  
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f16f51c7-e75b-4f5e-a1b6-025b0b068ea2" />
+
 ---
 
 ## Report
@@ -71,3 +73,15 @@ Your report should include:
 - Discussion of differences between analytical and simulation results.  
 
 ---
+## TABULATION
+
+<img width="920" height="1193" alt="WhatsApp Image 2026-05-27 at 21 22 59" src="https://github.com/user-attachments/assets/e14b908a-7bd5-4b49-9bab-f8a878845025" />
+
+
+## RESULT
+The analytical receiver sensitivity was calculated using the thermal noise formula based on the student ID parameters and compared directly with the OptiSystem simulation. The simulation verified this value by adjusting the optical attenuator until a target Q-factor of 6 (BER=10 
+−9
+ ) was achieved, demonstrating precise alignment between theoretical equations and simulated model performance.
+
+
+
